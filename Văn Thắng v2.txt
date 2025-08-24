@@ -1,4 +1,4 @@
--- discord.gg/vanthangios
+
 
 
 shared.LoaderTitle = "Đăng Ký Kênh Văn Thắng IOS ";
